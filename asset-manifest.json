@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/darvycg-blog/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/darvycg-blog/static/js/main.9a07ef54.chunk.js",
+    "main.js.map": "/darvycg-blog/static/js/main.9a07ef54.chunk.js.map",
+    "runtime-main.js": "/darvycg-blog/static/js/runtime-main.a425f1ec.js",
+    "runtime-main.js.map": "/darvycg-blog/static/js/runtime-main.a425f1ec.js.map",
+    "static/js/2.6bebe605.chunk.js": "/darvycg-blog/static/js/2.6bebe605.chunk.js",
+    "static/js/2.6bebe605.chunk.js.map": "/darvycg-blog/static/js/2.6bebe605.chunk.js.map",
+    "static/js/3.13f5346f.chunk.js": "/darvycg-blog/static/js/3.13f5346f.chunk.js",
+    "static/js/3.13f5346f.chunk.js.map": "/darvycg-blog/static/js/3.13f5346f.chunk.js.map",
+    "index.html": "/darvycg-blog/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/darvycg-blog/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.6bebe605.chunk.js.LICENSE.txt": "/darvycg-blog/static/js/2.6bebe605.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/darvycg-blog/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a425f1ec.js",
+    "static/js/2.6bebe605.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.9a07ef54.chunk.js"
+  ]
+}
